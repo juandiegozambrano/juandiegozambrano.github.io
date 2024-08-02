@@ -1,11 +1,11 @@
-# Data Scientist
+# Control Systems Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: MATLAB, Python, SQL, 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D. Candidate, Electrical Engineering | Princeton University						       		
+- M.S., Automation and Control Eng.	| Politecnico di Milano (_2024_)	 			        		
+- B.S., Electronics and Automation Eng. | Escuela Politécnica Nacional (_2022_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
