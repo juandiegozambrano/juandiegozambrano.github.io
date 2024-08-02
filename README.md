@@ -2,10 +2,9 @@
 
 #### Technical Skills: MATLAB, Python, SQL, 
 
-## Education
-- Ph.D. Candidate, Electrical Engineering | Princeton University						       		
-- M.S., Automation and Control Eng.	| Politecnico di Milano (_2024_)	 			        		
-- B.S., Electronics and Automation Eng. | Escuela Politécnica Nacional (_2022_)
+## Education			       		
+- M.S., Automation and Control Eng.| Politecnico di Milano (_2024_)	 			        		
+- B.Eng, Electronics and Automation| Escuela Politécnica Nacional (_2022_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
